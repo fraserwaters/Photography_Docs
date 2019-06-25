@@ -6,6 +6,7 @@
 - 1TB Portable drive
 - Backup drives
 - Adobe Lightroom
+- Adobe Photoshop
 - Flickr
 - Instagram
 
